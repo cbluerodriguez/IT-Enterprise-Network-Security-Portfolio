@@ -1,4 +1,5 @@
-👨‍💻 Sr. Security & Cyber Network Systems Engineer | Portfolio
+👨‍💻 Sr. Cyber Network Security - Systems Engineer | Portfolio | Application Security | Analysis, etc., Exchange Online  + Datastore(s), Office 365 - Business Continuity/Disaster Recovery upto 3 billion Secure transaction global
+
 Welcome to my Professional GitHub Portfolio.
 As a Senior Network Security Engineer with extensive experience in planning, designing, securing, implementing, and optimizing enterprise networks across global environments. My work focuses on Zero‑Trust Technologies, Agile methodologies, Application Security, Network Defense, Threat Detection, Automation, API Security, DevOps, and Security Monitoring.
 
@@ -12,7 +13,7 @@ Network Security Architecture
 Advanced design and hardening of enterprise networks, including VPNs, Zero‑Trust endpoints, and stealth networking.
 
 Intrusion Detection & SIEM Integration  
-Skilled in integrating and tuning SIEM platforms such as Splunk, Check Point LTD, Palo Alto, Fortinet, Cisco ASA/UCS, Zeek, Suricata, and CrowdStrike.
+Skilled in integrating and tuning SIEM platforms such as Splunk, Check Point LTD, Palo Alto, Fortinet, Cisco ASA/UCS, Cloudflare and CrowdStrike.
 
 Medium‑Voltage Datacenter Infrastructure  
 Experience with datacenter distribution design, Fibre Channel zoning, SAN architecture, and high‑availability systems.
@@ -23,15 +24,15 @@ Expert in AD, IAM, MFA, SSO, LDAP, and Federated Services across hybrid Private 
 🛡️ Certifications & Credentials
 CISSP (In Progress)
 
-Check Point Certified Expert (LTD Expert)
+Check Point Certified Expert (LTD Expert) Legacy - Fault Tolerance 
 
 CCNP Security 
 
 ---
 ## 📂 Featured Projects
 1. Automated Firewall Rule Audit
-Description: CI/CD Pipeline to firewall rules and generate compliance reports across the globe.
-Tech Stack: Python, JSON, APIs, COM, C, Perl, Unix, Shell
+Description: * CI/CD Pipeline to firewall rules and generate compliance reports across the globe.
+Tech Stack: Python, JSON, APIs, DCOM, COM, C, Perl, Unix, Shell 
 Outcome: Reduced audit time by 80% and improved compliance accuracy. 99.9% uptime w/ Disaster Recovery
 2. SIEM Log Correlation Engine
 Description: Custom log parser for Checkpoint Software, LTD Nex-Gen, Panaroma Palo Alto, Splunk, Cisco ASA, Cisco UCS and Fortinet to correlate suspicious events across multiple sources.
@@ -39,7 +40,7 @@ Tech Stack: Splunk, Python,
 Outcome: Increased detection of lateral movement attempts by 65%.
 3. Threat Hunting Toolkit
 Description: Bash and Python scripts for packet capture analysis and anomaly detection.
-Tech Stack: CEH, CHFI
+Tech Stack: CEH, CHFI & more
 Outcome: Identified zero-day exploit attempts in lab simulations.
 
 ### 3. **Threat Hunting Toolkit**
