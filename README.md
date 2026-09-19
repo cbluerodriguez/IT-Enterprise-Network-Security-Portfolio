@@ -1,7 +1,7 @@
 👨‍💻 Sr. Cyber Network Security - Systems Engineer | Portfolio | Application Security | Analysis, etc., Exchange Online  + Datastore(s), Office 365 - Business Continuity/Disaster Recovery & secure up to 3 billion transactions globally from USA 🇺🇸
 
 Welcome to my Professional GitHub Portfolio.
-As a Senior Network Security Engineer with extensive experience in planning, designing, securing, implementing, and optimizing enterprise networks across global environments. My work focuses on Zero‑Trust Technologies, Agile methodologies, Application Security, Network Defense, Threat Detection, Automation, API Security, DevOps, and Security Monitoring.
+As a Sr. Network Security Engineer with extensive experience in planning, designing, securing, implementing, and optimizing enterprise networks across global environments. My work focuses on Zero‑Trust Maturity Model Technologies, Agile methodologies, Application Security, Network Defense, Threat Detection, Automation, API Security, DevOps, and Security Monitoring.
 
 Specialties: in GDPR, NIST, ISO, PCI, SOX, HITRUST, HIPAA compliance, Stealth Networks, Top Enterprise Industry Vendor and ICS/PLC Programming Logics. My career has been a journey delivering 99.9% uptime across mission‑critical Iinfrastructures Datacenters.
 ---
@@ -26,7 +26,7 @@ CISSP (In Progress)
 
 Check Point Certified Expert (LTD Expert) Legacy - Fault Tolerance 
 
-CCNP Security 
+CCNA Security 
 
 ---
 ## 📂 Featured Projects
@@ -35,7 +35,7 @@ Description: * CI/CD Pipeline to firewall rules and generate compliance reports 
 Tech Stack: Python, JSON, APIs, DCOM, COM, C, Perl, Unix, Shell 
 Outcome: Reduced audit time by 80% and improved compliance accuracy. 99.9% uptime w/ Disaster Recovery
 2. SIEM Log Correlation Engine
-Description: Custom log parser for Checkpoint Software, LTD Nex-Gen, Panaroma Palo Alto, Splunk, Cisco ASA, Cisco UCS and Fortinet to correlate suspicious events across multiple sources.
+Description: Custom log parser for Checkpoint Software, LTD Nex-Gen - ClusterXL, Panaroma Palo Alto, Splunk, Cisco ASA, Cisco UCS and Fortinet to correlate suspicious events across multiple sources.
 Tech Stack: Splunk, Python,
 Outcome: Increased detection of lateral movement attempts by 65%.
 3. Threat Hunting Toolkit
