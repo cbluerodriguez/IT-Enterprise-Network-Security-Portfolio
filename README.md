@@ -6,7 +6,7 @@ As a Sr. Network Security Engineer with extensive experience in planning, design
 Specialties: in GDPR, NIST, ISO, PCI, SOX, HITRUST, HIPAA compliance, Stealth Networks, Top Enterprise Industry Vendor and ICS/PLC Programming Logics. My career has been a journey delivering 99.9% uptime across mission‑critical Iinfrastructures Datacenters.
 ---
 🔐 About Me
-Seasoned Senior Cyber Network Security Engineer with deep expertise in securing, designing, and optimizing enterprise‑scale network and cloud infrastructures. My work spans Zero‑Trust Architecture, advanced firewall engineering, SIEM integration, cloud security, datacenter operations, and automation for global environments.
+Seasoned Sr Network Security Engineer with deep expertise in securing, designing, and optimizing enterprise‑scale network and cloud infrastructures. My work spans Zero‑Trust Architecture, advanced firewall engineering, SIEM integration, cloud security, datacenter operations, and automation for global environments.
 
 🌐 Core Expertise
 Network Security Architecture  
@@ -19,7 +19,7 @@ Medium‑Voltage Datacenter Infrastructure
 Experience with datacenter distribution design, Fibre Channel zoning, SAN architecture, and high‑availability systems.
 
 Active Directory & Identity Security  
-Expert in AD, IAM, MFA, SSO, LDAP, and Federated Services across hybrid Private & Public cloud environments.
+Expert in AD, Auth0, IAM, MFA, SSO, LDAP, and Federated Services across hybrid Private & Public cloud environments. 
 
 🛡️ Certifications & Credentials
 CISSP (In Progress)
@@ -27,7 +27,6 @@ CISSP (In Progress)
 Check Point Certified Expert (LTD Expert) Legacy - Fault Tolerance 
 
 CCNA Security 
-
 ---
 ## 📂 Featured Projects
 1. Automated Firewall Rule Audit
