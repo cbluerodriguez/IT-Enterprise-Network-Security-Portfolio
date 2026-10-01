@@ -1,7 +1,7 @@
 👨‍💻 Sr. Cyber Network Security - Systems Engineer | Portfolio | Application Security | Analysis, etc., Exchange Online  + Datastore(s), Office 365 - Business Continuity/Disaster Recovery & secure up to 3 billion transactions globally from USA 🇺🇸
 
 Welcome to my Professional GitHub Portfolio.
-As a Sr. Network Security Engineer with extensive experience in planning, designing, securing, implementing, and optimizing enterprise networks across global environments. My work focuses on Zero‑Trust Maturity Model Technologies, Agile methodologies, Application Security, Network Defense, Threat Detection, Automation, API Security, DevOps, and Security Monitoring.
+As a Sr. Network Security Engineer with extensive experience in Countermeasure, planning, designing, securing, implementing, and optimizing enterprise networks across global environments. My work focuses on Zero‑Trust Maturity Model Technologies, Agile methodologies, Application Security, Network Defense, Threat Detection, Automation, API Security, DevOps, and Security Monitoring.
 
 Specialties: in GDPR, NIST, CSF, ISO, PCI, SOX, HITRUST, HIPAA compliance, Stealth Networks, Top Enterprise Industry Vendor and ICS/PLC Programming Logics. My career has been a journey delivering 99.9% uptime across mission‑critical Iinfrastructures Datacenters.
 ---
