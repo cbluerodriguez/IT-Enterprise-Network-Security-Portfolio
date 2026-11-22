@@ -50,7 +50,7 @@ Outcome: Identified zero-day exploit attempts in lab simulations.
 
 ### 🛠️ Skills Matrix
 Category	Tools/Technologies
-Network Security	Nex-Gen Firewalls, Dashboard UX, IDS/IPS/DLP VPNs, Zero Trust Endpoints
+Network Security	Nex-Gen Firewalls, Dashboard UX, IDS/IPS/DLP VPNs, Zero Trust Endpoints, Enterprise Browser
 Monitoring	SIEM Checkpoint LTD, Palo Alto, Fortinet, ForeScout, Crowdstrike, Cloudflare, 365, Cisco ASA, Cisco UCS, Splunk, Aruba, Zeek, Suricata
 Automation	Bash, PowerShell, Python
 Cloud Security	Enterprise Browser, vmware SME, AWS Practitioner, Security Groups, Azure NSGs, GCP IAM
