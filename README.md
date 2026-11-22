@@ -29,7 +29,7 @@ Check Point Certified Expert (LTD Expert) Legacy - Fault Tolerance
 CCNA Security 
 ---
 ## 📂 Featured Projects
-1. Automated Firewall Rule Audit
+1. Automated Firewall Rule Design 
 Description: * CI/CD Pipeline to firewall rules and generate compliance reports across the globe.
 Tech Stack: Python, JSON, APIs, DCOM, COM, C, Perl, Unix, Shell 
 Outcome: Reduced audit time by 80% and improved compliance accuracy. 99.9% uptime w/ Disaster Recovery
@@ -53,7 +53,7 @@ Category	Tools/Technologies
 Network Security	Nex-Gen Firewalls, Dashboard UX, IDS/IPS/DLP VPNs, Zero Trust Endpoints
 Monitoring	SIEM Checkpoint LTD, Palo Alto, Fortinet, ForeScout, Crowdstrike, Cloudflare, 365, Cisco ASA, Cisco UCS, Splunk, Aruba, Zeek, Suricata
 Automation	Bash, PowerShell, Python
-Cloud Security	vmware SME, AWS Practitioner, Security Groups, Azure NSGs, GCP IAM
+Cloud Security	Enterprise Browser, vmware SME, AWS Practitioner, Security Groups, Azure NSGs, GCP IAM
 Protocols	TCP/IP, DNSSEC, TLS, BGP, OWASP Top 10, OSRM api
 📜 Case Studies & AI‑Enhanced Security Operations
 🔥 Incident Response
